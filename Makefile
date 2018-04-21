@@ -88,7 +88,6 @@ all: cmake_check_build_system
 # The main clean target
 clean:
 	$(MAKE) -f CMakeFiles/Makefile2 clean
-	rm *.cbp *.o
 .PHONY : clean
 
 # The main clean target
