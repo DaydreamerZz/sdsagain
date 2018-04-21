@@ -1,3 +1,0 @@
-/home/lab2/CLionProjects/sds/CMakeFiles/edit_cache.dir
-/home/lab2/CLionProjects/sds/CMakeFiles/rebuild_cache.dir
-/home/lab2/CLionProjects/sds/CMakeFiles/sds.dir
